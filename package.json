@@ -1,0 +1,8 @@
+{
+  "name": "rwth-gym-scraper",
+  "version": "0.0.1",
+  "main": "src/index.ts",
+  "repository": "https://github.com/Schwefelhexa/rwth-gym-scraper",
+  "license": "MIT",
+  "private": false
+}
