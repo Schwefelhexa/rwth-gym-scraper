@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 import axios from "axios";
 
-const url = "https://buchung.hsz.rwth-aachen.de/cgi/studio.cgi?size=64";
+const url = "https://buchung.hsz.rwth-aachen.de/cgi/studio.cgi?size=256";
 const referer =
   "https://buchung.hsz.rwth-aachen.de/angebote/aktueller_zeitraum/_Auslastung.html";
 
